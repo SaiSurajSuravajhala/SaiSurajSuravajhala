@@ -1,6 +1,6 @@
-**Hi, I’m Sai Suraj Suravajhala!**  
+# **Sai Suraj Suravajhala** 
 
-I’m an **AI/ML Engineer** passionate about building intelligent systems and end-to-end data solutions. My experience spans **multi-agent AI** architectures, **ETL pipelines**, and **MLOps**—from designing scalable data ingestion workflows to deploying ML models in production. I’ve developed AI-powered document search systems, containerized ML applications, and orchestrated decentralized AI environments (including a **1st place** finish at the MIT Decentralized AI Hackathon).  
+I’m an **AI/ML Engineer** passionate about building intelligent systems and end-to-end data solutions. My experience spans **multi-agent AI** architectures, **ETL pipelines**, and **MLOps**—from designing scalable data ingestion workflows to deploying ML models in production. I’ve developed AI-powered document search systems, containerized ML applications, and orchestrated decentralized AI environments (including a **1st place** finish at the MIT Decentralized AI Hackathon).
 
 **Key Highlights:**
 - **AI Agents & MLOps:** Built multi-agent frameworks integrating financial analysis and web search tools.
