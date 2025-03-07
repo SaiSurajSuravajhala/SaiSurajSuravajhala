@@ -9,4 +9,4 @@ I’m an **AI/ML Engineer** passionate about building intelligent systems and en
 - **LLMs & Embeddings:** Leveraged LangChain, Pinecone, and GPT models to power advanced semantic search and Q&A.
 - **Data Visualization & Insights:** Delivered dashboards using Tableau and Power BI, enabling data-driven decisions.
 
-When I’m not exploring AI and data engineering, I enjoy reading novels, playing badminton and snooker, and experimenting in the kitchen. I’m always excited to collaborate on innovative AI/ML projects—let’s connect!
+When I’m not exploring AI and data engineering, I enjoy Swimming, reading novels, playing badminton and snooker, and experimenting in the kitchen. I’m always excited to collaborate on innovative AI/ML projects—let’s connect!
