@@ -5,7 +5,7 @@ I’m an **AI/ML Engineer** passionate about building intelligent systems and en
 **Key Highlights:**
 - **AI Agents & MLOps:** Built multi-agent frameworks integrating financial analysis and web search tools.
 - **Scalable Pipelines:** Created ETL processes with Azure Data Factory, Talend, and Airflow, handling millions of records daily.
-- **Model Deployment:** Proficient in Docker, Heroku, and CI/CD automation, ensuring seamless cloud integration.
+- **Model Deployment:** Proficient in Docker, and CI/CD automation, ensuring seamless cloud integration.
 - **LLMs & Embeddings:** Leveraged LangChain, Pinecone, and GPT models to power advanced semantic search and Q&A.
 - **Data Visualization & Insights:** Delivered dashboards using Tableau and Power BI, enabling data-driven decisions.
 
